@@ -1,5 +1,5 @@
-# CIFAR10
-A Mini Kaggle Competition held in The Bridge | Digital Talent Accelerator.
+## CIFAR10
+# A Mini Kaggle Competition held in The Bridge | Digital Talent Accelerator.
 
 Two different approaches: 
 
